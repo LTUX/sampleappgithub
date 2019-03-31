@@ -7,7 +7,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 0,
 "y" : 0,
@@ -17,7 +23,7 @@
 "width" : 0
 },
 "do_objectID" : "1670F382-39FC-42FE-AB76-B04F5F38253F",
-"layerListExpandedType" : 0,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "includedLayerIds" : [
@@ -29,15 +35,9 @@
 
 ]
 },
-"hasClickThrough" : true,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
 "includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"rotation" : 0,
 "verticalRulerData" : {
 "base" : 0,
 "_class" : "rulerData",
@@ -46,11 +46,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Page 1",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -62,7 +60,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 377,
 "y" : 116,
@@ -72,6 +76,63 @@
 "width" : 375
 },
 "do_objectID" : "001B94A3-E8D7-45B6-8047-948521FB4471",
+"hasClickThrough" : true,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasBackgroundColor" : false,
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"resizesContent" : false,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "iPhone 8",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 124,
+"width" : 375
+},
+"do_objectID" : "D9A3176D-0B77-4F32-8EF8-396F20970522",
 "layerListExpandedType" : 0,
 "exportOptions" : {
 "shouldTrim" : false,
@@ -84,61 +145,51 @@
 
 ]
 },
-"hasClickThrough" : false,
-"hasBackgroundColor" : false,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
-"backgroundColor" : {
-"red" : 1,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 1,
-"green" : 1
-},
-"includeInCloudUpload" : true,
-"resizesContent" : false,
-"verticalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
+"symbolID" : "D1A358E2-0B0C-4F8B-BFFD-A8C0F688F5BB",
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
-"name" : "iPhone 8",
-"isVisible" : true,
-"resizingType" : 0,
 "clippingMaskMode" : 0,
+"name" : "Bars \/ Navigation Bar \/ iPad - Compact \/ Dark - Default Navigation Bar with Search",
+"isVisible" : true,
 "hasClippingMask" : false,
-"layers" : [
+"nameIsFixed" : false,
+"resizingType" : 0,
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"overrideValues" : [
 
 ],
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "_class" : "MSImmutableFreeformGroupLayout"
 },
-"shouldBreakMaskChain" : true,
 "isFlowHome" : false,
+"shouldBreakMaskChain" : true,
 "isFixedToViewport" : false,
 "presetDictionary" : {
-"name" : "iPhone 8",
-"offersLandscapeVariant" : 1,
 "width" : 375,
+"offersLandscapeVariant" : 1,
+"height" : 667,
 "allowResizedMatching" : 1,
-"height" : 667
+"name" : "iPhone 8"
 },
 "_class" : "artboard",
 "booleanOperation" : -1,
-"resizingConstraint" : 63,
-"includeBackgroundColorInExport" : true
+"includeBackgroundColorInExport" : true,
+"resizingConstraint" : 63
 }
 ],
+"nameIsFixed" : false,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "_class" : "MSImmutableFreeformGroupLayout"
