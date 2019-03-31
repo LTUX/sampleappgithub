@@ -161,7 +161,18 @@
 "_class" : "symbolInstance",
 "booleanOperation" : -1,
 "overrideValues" : [
-
+{
+"do_objectID" : "FC8CDF72-7A7A-47DD-9680-DAD3EE1CE030",
+"overrideName" : "C67DE829-B54F-44E4-B592-8EF93DC90FED\/8DC81C0B-E59A-4E77-9754-0CB6B32BB62D_stringValue",
+"_class" : "overrideValue",
+"value" : "Back"
+},
+{
+"do_objectID" : "EB93465F-52AD-4B2B-A0FC-AD4B5806AB6D",
+"overrideName" : "76ED04FA-56CA-42C5-AEA5-753E5A1E9D87_stringValue",
+"_class" : "overrideValue",
+"value" : "Search"
+}
 ],
 "resizingConstraint" : 63
 }
